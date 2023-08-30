@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/borrar.unity
+    guid: 7eddb158023a980448bafea7beeec5f4
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 72f15929ae1e6534baaf7acc4399b01d
+  - enabled: 1
+    path: Assets/Scenes/LoginInput.unity
+    guid: 6e1aee9a7440fc24d806d0bc38aa19a9
+  - enabled: 1
+    path: Assets/Scenes/MultitargetGSN.unity
+    guid: 636625a8b79a96f4aa35f95363af75f1
+  - enabled: 1
+    path: Assets/Scenes/IOT_TARGET.unity
+    guid: 832119641483f29469189860a5735c60
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 50333baa9838f1f4da47b5fab22f64fb,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4770b76322ba33441a99b98dc39af43e,
+      type: 2}

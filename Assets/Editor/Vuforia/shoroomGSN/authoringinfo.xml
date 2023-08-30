@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.0" bbox="-5.4818 -1.5604 -3.9610 6.9690 3.9680 4.5601" targetId="00e0424e76434a6d9941509ebcba3bcf" name="shoroomGSN" />
+    </TargetSet>
+</QCARInfo>

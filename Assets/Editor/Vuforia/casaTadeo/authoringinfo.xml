@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.0" bbox="-2.3929 -0.9529 -4.1873 5.7276 1.4945 1.1263" targetId="741ea5090e03490eaa6ec1f19ae5ced4" name="casaTadeo" />
+    </TargetSet>
+</QCARInfo>

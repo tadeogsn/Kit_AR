@@ -1,0 +1,11 @@
+ruta/al/archivo filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.ptc.vuforia.engine@716a8216fe/Vuforia/Plugins/iOS/Vuforia.framework/Vuforia filter=lfs diff=lfs merge=lfs -text
+Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_B24EDFDFD10280F25A2E3ED56EF39061/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_B24EDFDFD10280F25A2E3ED56EF39061/libil2cpp.sym.so filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+'*.psd' filter=lfs diff=lfs merge=lfs -text
+*so filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
